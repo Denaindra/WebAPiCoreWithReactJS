@@ -110,11 +110,10 @@ namespace ReactWebApplication.Controllers
         [HttpPost]
         public ActionResult EmployeeImage([FromForm] EmployeeImage context)
         {
-            // Getting Name
             string name = context.Name;
-            // Getting Image
+
             var image = context.Avatar;
-            // Saving Image on Server
+         
             if (image.Length > 0)
             {
                 using (var fileStream = new FileStream(@"C:\Users\ASUS\Desktop\path\" + image.FileName, FileMode.Create))
