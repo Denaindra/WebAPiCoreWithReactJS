@@ -1,0 +1,14 @@
+E:\DOTNET\WebAPIWithReact\ReactWebApplication\EFDataAcessLayer\bin\Debug\net5.0\EFDataAcessLayer.deps.json
+E:\DOTNET\WebAPIWithReact\ReactWebApplication\EFDataAcessLayer\bin\Debug\net5.0\EFDataAcessLayer.runtimeconfig.json
+E:\DOTNET\WebAPIWithReact\ReactWebApplication\EFDataAcessLayer\bin\Debug\net5.0\EFDataAcessLayer.runtimeconfig.dev.json
+E:\DOTNET\WebAPIWithReact\ReactWebApplication\EFDataAcessLayer\bin\Debug\net5.0\EFDataAcessLayer.dll
+E:\DOTNET\WebAPIWithReact\ReactWebApplication\EFDataAcessLayer\bin\Debug\net5.0\ref\EFDataAcessLayer.dll
+E:\DOTNET\WebAPIWithReact\ReactWebApplication\EFDataAcessLayer\bin\Debug\net5.0\EFDataAcessLayer.pdb
+E:\DOTNET\WebAPIWithReact\ReactWebApplication\EFDataAcessLayer\obj\Debug\net5.0\EFDataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNET\WebAPIWithReact\ReactWebApplication\EFDataAcessLayer\obj\Debug\net5.0\EFDataAcessLayer.AssemblyInfoInputs.cache
+E:\DOTNET\WebAPIWithReact\ReactWebApplication\EFDataAcessLayer\obj\Debug\net5.0\EFDataAcessLayer.AssemblyInfo.cs
+E:\DOTNET\WebAPIWithReact\ReactWebApplication\EFDataAcessLayer\obj\Debug\net5.0\EFDataAcessLayer.csproj.CoreCompileInputs.cache
+E:\DOTNET\WebAPIWithReact\ReactWebApplication\EFDataAcessLayer\obj\Debug\net5.0\EFDataAcessLayer.dll
+E:\DOTNET\WebAPIWithReact\ReactWebApplication\EFDataAcessLayer\obj\Debug\net5.0\ref\EFDataAcessLayer.dll
+E:\DOTNET\WebAPIWithReact\ReactWebApplication\EFDataAcessLayer\obj\Debug\net5.0\EFDataAcessLayer.pdb
+E:\DOTNET\WebAPIWithReact\ReactWebApplication\EFDataAcessLayer\obj\Debug\net5.0\EFDataAcessLayer.genruntimeconfig.cache
